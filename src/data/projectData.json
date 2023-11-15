@@ -1,6 +1,13 @@
 [
     {
         "id": "3",
+        "title": "New Stuff",
+        "link": "https://ewu.edu/",
+        "logo": "/icons/articoole-icon.png",
+        "shortExcerpt": "computers"
+    },
+    {
+        "id": "3",
         "title": "Articoole",
         "link": "https://articoole.chrstnl.com/",
         "logo": "/icons/articoole-icon.png",
